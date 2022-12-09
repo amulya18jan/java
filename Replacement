@@ -1,7 +1,0 @@
-public class ConvertorString {
-public static void main(String[] args) {
-	String vegeta = "Dear <|name|>, Thanks alot!";
-	vegeta = vegeta.replace("<|name|>", "Kakrot");
-	System.out.println(vegeta);
-}
-}
